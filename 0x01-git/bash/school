@@ -1,2 +1,2 @@
-vi #!/bin/bash
+#!/bin/bash
 echo "School"
